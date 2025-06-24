@@ -30,7 +30,7 @@ The architecture and deployment features will evolve as I continue learning.
 ## 📌 Notes
 
 - This is a repository made totally for learning purposes.
-- The notebooks were made while learning from the **NeuraLearn** couse available on **freecodecamp.org**'s youtube channel 
+- The notebooks were made while learning from the **NeuraLearn** course available on **freecodecamp.org**'s youtube channel 
 - The course link is https://youtu.be/IA3WxTTPXqQ?feature=shared
 
 ---
